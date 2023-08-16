@@ -22,7 +22,7 @@
 
 <hr/>
 
-#### You can reach me at: Carter215@hotmail.co.uk, or my LinkedIn is [here](https://www.linkedin.com/in/james-carter-9313401a3/)...
+#### You can reach me at: james.carter2155@gmail.com, or my LinkedIn is [here](https://www.linkedin.com/in/james-carter-9313401a3/)...
 
 <!---
 JamesC215/JamesC215 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
