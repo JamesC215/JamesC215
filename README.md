@@ -1,8 +1,8 @@
 ### Hi, my name is James Carter 👋
 
 #### 📚 I am currently a student of [General Assembly](https://generalassemb.ly/?topic=&mkt_account_id=1056949875&mkt_campaign_id=18014985984&mkt_ad_group_id=143659601967&mkt_device_type=c&mkt_keyword=general%20assembly&mkt_matchtype=e&mkt_placement=&mkt_ad_id=616745080714&mkt_network=g&mkt_target_id=aud-387824918555:kwd-300765785657&mkt_feed_item_id=&utm_source=google&utm_medium=paid-search-bra&utm_campaign=TS:TX:BRA:UK:BR:GeneralAssembly:X:Exact&utm_content=campus-lead-lander&utm_term=general%20assembly&gclid=CjwKCAjw5_GmBhBIEiwA5QSMxDKb22h2tLpd6UQETTA7cOQsXlTkA24gvbQ2ZATozdA09P2CsEf-FhoCvcIQAvD_BwE&gclsrc=aw.ds).
-#### 🌎 🇬🇧 I am based in the North-East of England.
-#### 🎮 ⚽ In my spare time, I enjoy Gaming and Team Sport activities.
+#### 🇬🇧 I am based in the North-East of England.
+#### 🎮 In my spare time, I enjoy Gaming and Team Sport activities.
 <hr />
 
 ### My Dev Skills include a basic knowledge of: 
