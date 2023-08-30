@@ -13,7 +13,7 @@
 	<code><img width="30" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/javascript.svg" alt="JavaScript" title="JavaScript"/></code>
 	<code><img width="30" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/python.svg" alt="Python" title="Python"/></code>
   <code><img width="30" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/django.svg" alt="Django" title="Django"/></code>
-  <code><img width="30" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/react.svg" alt="React" title="Django"/></code>
+  <code><img width="30" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/react.svg" alt="React" title="React"/></code>
 </div><br>
 <div align="left">
 	<code><img width="80" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/git.svg" alt="Git" title="Git"/></code>
