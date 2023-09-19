@@ -5,7 +5,7 @@
 #### 🎮 In my spare time, I enjoy Gaming and Team Sport activities.
 <hr />
 
-### My Dev Skills include a basic knowledge of: 
+### My Dev Skills include knowledge of: 
   <div align="left">
 	<code><img width="30" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/html-5.svg" alt="HTML" title="HTML"/></code>
 	<code><img width="30" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/css-3.svg" alt="CSS" title="CSS"/></code>
